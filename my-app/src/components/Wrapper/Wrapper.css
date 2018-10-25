@@ -1,9 +1,9 @@
 .wrapper {
     padding-top: 50px;
-    background: #ECEFF1;
+    background: lightslategray;
     height: 100%;
     display: flex;
-    flex-flow: row wrap;
+    flex-flow: wrap;
     padding: 20px;
     text-align: center;
     justify-content: space-around;

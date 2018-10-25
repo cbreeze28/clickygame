@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "./assets/images/mushroom.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "./assets/images/bomb.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "./assets/images/bell.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "./assets/images/flower.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "./assets/images/bullet.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "./assets/images/star.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "./assets/images/storm.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "./assets/images/shell.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "./assets/images/banana.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "./assets/images/boo.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "./assets/images/bolt.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "./assets/images/blue-shell.jpg",
+      "clicked": false
+    }
+  ]
